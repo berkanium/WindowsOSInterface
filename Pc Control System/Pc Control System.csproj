@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{955F03A9-3764-4736-9C46-FA51DE1E3F5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pc_Control_System</RootNamespace>
+    <AssemblyName>Pc Control System</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aç-Kapa-Beklet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aç-Kapa-Beklet.Designer.cs">
+      <DependentUpon>Aç-Kapa-Beklet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Başlat_Menusü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Başlat_Menusü.Designer.cs">
+      <DependentUpon>Başlat_Menusü.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcı_Doğrulama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanıcı_Doğrulama.Designer.cs">
+      <DependentUpon>Kullanıcı_Doğrulama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masaüstü_Alanı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masaüstü_Alanı.Designer.cs">
+      <DependentUpon>Masaüstü_Alanı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ses Ayarları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ses Ayarları.Designer.cs">
+      <DependentUpon>Ses Ayarları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonlendirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonlendirme.Designer.cs">
+      <DependentUpon>Yonlendirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Çalar_Saat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Çalar_Saat.Designer.cs">
+      <DependentUpon>Çalar_Saat.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aç-Kapa-Beklet.resx">
+      <DependentUpon>Aç-Kapa-Beklet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Başlat_Menusü.resx">
+      <DependentUpon>Başlat_Menusü.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanıcı_Doğrulama.resx">
+      <DependentUpon>Kullanıcı_Doğrulama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masaüstü_Alanı.resx">
+      <DependentUpon>Masaüstü_Alanı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ses Ayarları.resx">
+      <DependentUpon>Ses Ayarları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonlendirme.resx">
+      <DependentUpon>Yonlendirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Çalar_Saat.resx">
+      <DependentUpon>Çalar_Saat.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\open.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

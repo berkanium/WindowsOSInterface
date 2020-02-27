@@ -1,0 +1,60 @@
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\bin\Debug\Pc Control System.exe
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\bin\Debug\Pc Control System.pdb
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Yonlendirme.resources
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.exe
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.pdb
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Kullanıcı_Dogrulama.resources
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Masaüstü_Alanı.resources
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ac_Kapa_Beklet.resources
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Calar_Saat.resources
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Baslat_Menusü.resources
+C:\Users\LENOVO\Desktop\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ses_Ayarları.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.exe
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.pdb
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\bin\Debug\Pc Control System.exe
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\bin\Debug\Pc Control System.pdb
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csprojResolveAssemblyReference.cache
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ac_Kapa_Beklet.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Baslat_Menusü.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Kullanıcı_Dogrulama.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Masaüstü_Alanı.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ses_Ayarları.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Yonlendirme.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Properties.Resources.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Calar_Saat.resources
+G:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csproj.GenerateResource.Cache
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.exe
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.pdb
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\bin\Debug\Pc Control System.exe
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\bin\Debug\Pc Control System.pdb
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csprojResolveAssemblyReference.cache
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ac_Kapa_Beklet.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Baslat_Menusü.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Kullanıcı_Dogrulama.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Masaüstü_Alanı.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ses_Ayarları.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Yonlendirme.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Properties.Resources.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Calar_Saat.resources
+E:\Nesne Tabanlı Programlama ödevi\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\bin\Debug\Pc Control System.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\bin\Debug\Pc Control System.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ac_Kapa_Beklet.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Baslat_Menusü.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Kullanıcı_Dogrulama.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Masaüstü_Alanı.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Ses_Ayarları.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Yonlendirme.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc_Control_System.Calar_Saat.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\7-Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.csproj.GenerateResource.Cache
+C:\Users\xbrkn\Desktop\C#\C# PROGRAMLAR\Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.exe
+C:\Users\xbrkn\Desktop\C#\C# PROGRAMLAR\Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.pdb
+C:\Users\xbrkn\Desktop\BERKAN YILMAZ\C#\C# PROGRAMLAR\Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.exe
+C:\Users\xbrkn\Desktop\BERKAN YILMAZ\C#\C# PROGRAMLAR\Pc Control System\Pc Control System\Pc Control System\obj\x86\Debug\Pc Control System.pdb
